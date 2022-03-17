@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Stats
-![Kondratovich GitHub stats](https://github-readme-stats.vercel.app/api?username=Kondratovich&hide=stars&show_icons=true&theme=dark) 
+![Kondratovich GitHub stats](https://github-readme-stats.vercel.app/api?username=Kondratovich&hide=stars,issues&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kondratovich&layout=compact&theme=dark)](https://github.com/DenisCo1100100/github-readme-stats)
